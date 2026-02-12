@@ -1,0 +1,332 @@
+{
+  "category": "ENTITY_SPIRIT",
+
+  "meta": {
+    "version": "1.0.0",
+    "schema_version": "1.0.0",
+    "last_updated": "2026-01-14",
+    "repository": "https://github.com/wyrdness/impundulu",
+    "maintainers": [
+      {
+        "name": "Wyrdness Team",
+        "github": "wyrdness",
+        "role": "maintainer"
+      }
+    ],
+    "license": {
+      "data": "CC0-1.0",
+      "content": "CC-BY-4.0"
+    }
+  },
+
+  "phenomenon": {
+    "id": "impundulu",
+    "name": "Impundulu",
+    "aliases": [
+      {
+        "name": "Lightning Bird",
+        "language": "English",
+        "region": "South Africa"
+      },
+      {
+        "name": "Impundulu",
+        "language": "Zulu/Xhosa",
+        "region": "South Africa",
+        "meaning": "Lightning bird"
+      },
+      {
+        "name": "Inyoni yezulu",
+        "language": "Zulu",
+        "region": "South Africa",
+        "meaning": "Bird of heaven/sky"
+      }
+    ],
+    "category": "ENTITY_SPIRIT",
+    "subcategory": "Witch familiar",
+    "tags": [
+      "lightning-bird",
+      "witch-familiar",
+      "shapeshifter",
+      "vampire",
+      "zulu",
+      "xhosa",
+      "south-africa",
+      "lightning",
+      "blood-drinking",
+      "malevolent"
+    ],
+    "status": "active",
+    "description": {
+      "summary": "Lightning bird and witch's familiar from Zulu/Xhosa folklore. Large bird that summons lightning to attack enemies on behalf of its witch master. Can shape-shift to human form, drinks blood, and passes from mother to daughter.",
+      "full": "The Impundulu, or Lightning Bird, is a creature from Zulu, Xhosa, and Pondo folklore in South Africa. Described as a large bird (size of a human in some accounts), it serves as a familiar to witches and has the power to control and summon lightning. The witch sends the impundulu to attack enemies via lightning strikes. The creature can shape-shift into the form of a handsome man to seduce women, and it has vampiric qualities, drinking blood from victims. The impundulu has a symbiotic relationship with its witch, including sexual relations, and is passed down from mother to daughter as an inherited familiar. Detection of an impundulu involves lightning striking the same place repeatedly or unexplained lightning patterns. This is a serious belief in Zulu and Xhosa cultures, part of the broader system of beliefs about witchcraft and supernatural power. The impundulu represents the dangerous intersection of natural phenomena (lightning), witchcraft, and supernatural entities."
+    },
+    "etymology": {
+      "origin": "Zulu and Xhosa languages",
+      "meaning": "Lightning bird (from 'impundulu' meaning lightning)",
+      "first_use": "Traditional oral folklore, predating written records"
+    }
+  },
+
+  "classification": {
+    "taxonomy": {
+      "category": "ENTITY_SPIRIT",
+      "type": "Witch familiar",
+      "subtype": "Lightning spirit/bird",
+      "variant": "Southern African (Zulu/Xhosa)"
+    },
+    "related_phenomena": [
+      {
+        "id": "tokoloshe",
+        "name": "Tokoloshe",
+        "relationship": "similar",
+        "description": "Another Zulu/Xhosa witch familiar"
+      },
+      {
+        "id": "thunderbird",
+        "name": "Thunderbird",
+        "relationship": "similar",
+        "description": "North American lightning/thunder bird"
+      },
+      {
+        "id": "vampires",
+        "name": "Vampires",
+        "relationship": "similar",
+        "description": "Blood-drinking aspect"
+      }
+    ]
+  },
+
+  "characteristics": {
+    "physical": {
+      "forms": [
+        {
+          "form": "Bird",
+          "description": "Large bird, size of human in some descriptions, associated with lightning",
+          "frequency": "common"
+        },
+        {
+          "form": "Handsome man",
+          "description": "Shape-shifts to attractive male human form to seduce women",
+          "frequency": "occasional"
+        }
+      ],
+      "features": [
+        {
+          "feature": "Large bird form",
+          "description": "Bird large enough to be seen from distance, various descriptions of appearance",
+          "frequency": "common"
+        },
+        {
+          "feature": "Lightning association",
+          "description": "Surrounded by or generates lightning",
+          "frequency": "always"
+        },
+        {
+          "feature": "Human form",
+          "description": "Handsome man when shape-shifted",
+          "frequency": "occasional"
+        }
+      ],
+      "morphology": "Shape-shifting entity, primarily manifests as large bird but can take human form"
+    },
+    "abilities": [
+      {
+        "ability": "Lightning control",
+        "description": "Can summon and direct lightning strikes",
+        "frequency": "common",
+        "evidence_level": "traditional_belief"
+      },
+      {
+        "ability": "Shape-shifting",
+        "description": "Transforms between bird and human (male) form",
+        "frequency": "common",
+        "evidence_level": "traditional_belief"
+      },
+      {
+        "ability": "Blood-drinking",
+        "description": "Vampiric, drinks blood from victims",
+        "frequency": "common",
+        "evidence_level": "traditional_belief"
+      },
+      {
+        "ability": "Flight",
+        "description": "Flies as bird",
+        "frequency": "common",
+        "evidence_level": "traditional_belief"
+      },
+      {
+        "ability": "Seduction",
+        "description": "As handsome man, seduces and exhausts women through sexual relationships",
+        "frequency": "occasional",
+        "evidence_level": "traditional_belief"
+      }
+    ],
+    "behavior": {
+      "activity_period": "variable",
+      "disposition": "malevolent",
+      "social_structure": "bound to witch",
+      "habitat_preference": [
+        "with witch master/mistress",
+        "sky/atmospheric"
+      ],
+      "diet": "Blood",
+      "patterns": [
+        "Serves witch as familiar",
+        "Attacks witch's enemies with lightning",
+        "Drinks blood",
+        "Sexual relationship with witch",
+        "Seduces women in human form",
+        "Passed from mother to daughter",
+        "Causes lightning strikes"
+      ]
+    }
+  },
+
+  "distribution": {
+    "range": {
+      "description": "Zulu, Xhosa, and Pondo peoples of South Africa",
+      "continents": ["Africa"],
+      "countries": ["South Africa"],
+      "regions": [
+        "KwaZulu-Natal",
+        "Eastern Cape",
+        "Mpumalanga",
+        "Transkei (historic Pondo territory)"
+      ]
+    },
+    "hotspots": [
+      {
+        "name": "KwaZulu-Natal",
+        "location": {
+          "description": "Zulu heartland",
+          "country": "South Africa",
+          "region": "KwaZulu-Natal"
+        },
+        "notes": "Center of impundulu belief"
+      },
+      {
+        "name": "Eastern Cape",
+        "location": {
+          "description": "Xhosa and Pondo territories",
+          "country": "South Africa",
+          "region": "Eastern Cape"
+        },
+        "notes": "Strong belief tradition"
+      }
+    ],
+    "temporal": {
+      "first_recorded": {
+        "date": "Pre-colonial",
+        "circa": true,
+        "source": "Zulu and Xhosa oral traditions"
+      },
+      "peak_activity_periods": [
+        {
+          "period": "Ongoing",
+          "description": "Active belief system, particularly during lightning storms"
+        }
+      ],
+      "seasonal_patterns": "Associated with storm season and lightning activity"
+    }
+  },
+
+  "history": {
+    "origins": {
+      "cultural_roots": "Deep roots in Zulu, Xhosa, and Pondo traditional belief systems about witchcraft and supernatural familiars. Part of broader Southern African understanding of lightning as supernatural phenomenon controlled by spiritual forces.",
+      "earliest_accounts": "Pre-colonial oral traditions. First written accounts appear in colonial-era anthropological studies.",
+      "folklore_connections": "Connected to Southern African beliefs about witchcraft, familiars, lightning magic, and the spirit world."
+    },
+    "timeline": [
+      {
+        "date": "Pre-colonial",
+        "event": "Traditional belief established",
+        "significance": "Impundulu belief firmly established in Zulu, Xhosa, and Pondo cultures",
+        "source": "Oral traditions"
+      },
+      {
+        "date": "1800s-1900s",
+        "event": "Western documentation",
+        "significance": "Colonial anthropologists document lightning bird beliefs",
+        "source": "Colonial anthropological records"
+      },
+      {
+        "date": "Modern era",
+        "event": "Ongoing belief",
+        "significance": "Belief continues in traditional communities, unexplained lightning attributed to impundulu",
+        "source": "Contemporary reports"
+      }
+    ],
+    "modern_era": "The impundulu belief remains active in South African traditional communities. Lightning striking repeatedly in the same location or unexplained lightning deaths may be attributed to witch-sent impundulu. This is a serious cultural belief within the context of witchcraft accusations."
+  },
+
+  "cultural": {
+    "folklore": {
+      "traditions": [
+        "Witch familiar serving witch master/mistress",
+        "Lightning as weapon of witchcraft",
+        "Inherited familiar passed mother to daughter",
+        "Sexual relationship between witch and familiar",
+        "Shape-shifting to seduce women",
+        "Blood-drinking vampire aspect"
+      ],
+      "stories": [
+        "Tales of lightning birds attacking witch's enemies",
+        "Stories of handsome men who are actually impundulu",
+        "Accounts of lightning striking same place repeatedly",
+        "Warnings about exhausting relationships with mysterious men"
+      ],
+      "beliefs": "The impundulu is taken seriously as a real supernatural threat within traditional belief systems. Lightning deaths and repeated lightning strikes may be investigated for witchcraft connections."
+    },
+    "indigenous": {
+      "cultures": [
+        "Zulu",
+        "Xhosa",
+        "Pondo"
+      ],
+      "significance": "Integral part of traditional beliefs about witchcraft, supernatural power, and the control of natural forces (lightning). Represents the dangerous capabilities of witches.",
+      "sensitivity_note": "CRITICAL CULTURAL SENSITIVITY: This is an active belief system in South African traditional communities. The impundulu is part of serious beliefs about witchcraft that can have real social consequences, including accusations and violence.",
+      "respect_guidelines": "Approach with cultural respect and awareness. Do not trivialize beliefs about witchcraft and supernatural familiars. Understand the social context and potential dangers of witchcraft accusations in South African communities."
+    }
+  },
+
+  "detection": {
+    "signs": [
+      {
+        "sign": "Repeated lightning strikes",
+        "description": "Lightning striking the same location multiple times",
+        "interpretation": "Possible impundulu attack"
+      },
+      {
+        "sign": "Unexplained lightning patterns",
+        "description": "Lightning behavior that seems targeted or unnatural",
+        "interpretation": "Witch-directed lightning bird"
+      },
+      {
+        "sign": "Exhausting relationships",
+        "description": "Woman in relationship with handsome man that drains her energy",
+        "interpretation": "Possible impundulu in human form"
+      }
+    ]
+  },
+
+  "research": {
+    "researchers": [
+      {
+        "name": "Various anthropologists",
+        "affiliation": "Colonial and post-colonial researchers",
+        "contribution": "Documentation of Zulu, Xhosa, and Pondo folklore",
+        "period": "1800s-present"
+      }
+    ],
+    "ongoing_studies": "Anthropological research into Southern African beliefs about witchcraft, supernatural familiars, and the cultural understanding of lightning phenomena."
+  },
+
+  "sources": [
+    {
+      "id": "south-african-folklore",
+      "type": "reference",
+      "title": "Southern African folklore and anthropological studies",
+      "note": "Multiple sources document impundulu beliefs across Zulu, Xhosa, and Pondo cultures"
+    }
+  ]
+}
